@@ -10,7 +10,7 @@ tags: home
 
 #### [Software engineer]({{ site.baseurl }}/se) 💻
 #### [Information/cyber security analyst]({{ site.baseurl }}/sec) 🧰
-#### [AI (ML/DL/LLM) Engineer]({{ site.baseurl }}/ai) 📦
+#### [AI (ML/DL/LLM) Engineer]({{ site.baseurl }}/se) 📦
 <br>
 
 I can usually be found in the Global Cybersecurity Institute (GCI) Lab, classroom, or in my house at a programming IDE or reading.
