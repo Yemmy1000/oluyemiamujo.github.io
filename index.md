@@ -8,8 +8,7 @@ tags: home
 ### I am a graduate student of Computer Engineering at Rochester Institute of Technology, NY, US.
 ### Check the links below to see my porfolio.
 
-### Software engineer | information/cyber security analyst | AI (ML/DL/LLM) Engineer.
-
+### [Software engineer]({{ site.baseurl }}/projects) | [Information/cyber security analyst]({{ site.baseurl }}/projects) | [AI (ML/DL/LLM) Engineer]({{ site.baseurl }}/projects).
 <br>
 
 I can usually be found in the Global Cybersecurity Institute (GCI) Lab, classroom, or in my house at a programming IDE or reading.
